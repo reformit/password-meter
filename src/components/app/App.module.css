@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.Logo {
+  height: 8rem;
+}
+
+.Header {
+  background-color: #00222b;
+  padding: .5rem;
+}
+
+.PageHeading {
+  color: #006680;
+}
+
+.Main{
+  margin-top: 5rem;
+}
+
+.Form{
+  margin: auto;
+  margin-top: 2rem;
+  max-width: 60vw;
+  text-align: left;
+}
+
+.Field{
+  border-radius: 0.25rem 0.25rem 0px 0px !important;
+}
+
+.Field:focus{
+  box-shadow: none !important;
+  border-color:  #ced4da !important;
+  border-radius: 0.25rem 0.25rem 0px 0px !important;
+}
+
+.Meter{
+  border: 1px solid #ced4da;
+  border-width: 0px 1px 1px 1px;
+  border-radius: 0px 0px 0.25rem 0.25rem !important;
+}
